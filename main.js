@@ -5,7 +5,7 @@
 // // // prompt("Masukan Usia Anda")
 
 
-// // // var usia = 25
+// // // var usia = 25  
 // // // console.log('Usia Kamu Adalah ' + usia + ' Tahun')
 
 // // // let usia = prompt("Berapa Usia Anda Sekarang ? ")
@@ -76,3 +76,8 @@
 //     i++
 //     console.log('andrew')
 // }while (i < 5) 
+
+
+document.title = 'Andrew Gokils'
+const body = document.body
+body.append('HELLO WORLD')

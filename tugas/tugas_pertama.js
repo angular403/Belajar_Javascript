@@ -1,15 +1,12 @@
 // TUGAS NOMOR SATU
 
-// let saldoAkhir = prompt(`Masukan Saldo Akhir Anda`)
+// let saldoAkhir = prompt("Silahkan Masukkan Saldo Terakhir Anda.")
+// alert(`Saldo Terakhir Anda Adalah Rp. ${saldoAkhir}.`)
 
-// alert(`Saldo Terakhir Anda Sebesar Rp. ${saldoAkhir}. `)
-
-
-// TUGAS NOMOR KEDUA
+// TUGAS NOMOR DUA
 
 
 // let hari = new Date().getDay()
-
 // hari = hari
 
 // switch (hari) {
@@ -35,8 +32,8 @@
 //         hari = 'Minggu'
 //         break;
 //     default:
-//         hari = 'Tidak Ada Hari'
+//         'Tidak Ada Hari'
 //         break;
 // }
 
-// alert(`Hari Di PC/Laptop Anda Sekarang Adalah Hari ${hari}.`)
+// alert(`Hari di PC/Laptop Anda Sekarang Hari ${hari}`)
